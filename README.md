@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm yCroma.  
+I'm just a developer.
+
+### Tool Manager
+
+| Target | Manager |
+| :---: | :---: |
+| [node](https://nodejs.org/en) | [volta](https://volta.sh/) |
 
 <!--
 **yCroma/yCroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
