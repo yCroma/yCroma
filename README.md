@@ -2,13 +2,15 @@
 I'm yCroma.  
 I'm just a developer.
 
-### Tool Manager
+### Environment
 
-| Target | Manager |
+| Target | Uses |
 | :---: | :---: |
-| [node](https://nodejs.org/en) | [volta](https://volta.sh/) |
+| Font | [PlemolJP](https://github.com/yuru7/PlemolJP) |
+| Node.js | [volta](https://volta.sh/) |
 
-<!--
+<!--Tool Manager
+Target 	Manager
 **yCroma/yCroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
