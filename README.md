@@ -2,20 +2,14 @@
 I'm yCroma.  
 I'm just a developer.
 
-### Environment
+## Using
 
-| Target | Uses |
-| :---: | :---: |
-| Font | [PlemolJP](https://github.com/yuru7/PlemolJP) |
-| Node.js | [volta](https://volta.sh/) |
-
-### Editor
-I'm using Emacs.
-
-| Package | reason |
+| Package | What |
 | --- | --- |
-| [org](https://orgmode.org/ja/) | for org-mode |
-| [package.el](https://emacs-jp.github.io/packages/package) | for package manager |
+| [PlemolJP](https://github.com/yuru7/PlemolJP) | Font |
+| [Emacs](https://www.gnu.org/software/emacs/) | Editor |
+| [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
+| [volta](https://volta.sh/) | Node Version Manager |
 
 
 <!--Tool Manager
