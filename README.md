@@ -2,6 +2,16 @@
 I'm yCroma.  
 I'm just a developer.
 
+## Environment
+I use Mac.
+
+| Package | What |
+| --- | --- |
+| [Arc](https://arc.net/) | Browser|
+| [Rectangle](https://rectangleapp.com/) | Window Manager |
+| [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
+
+
 ## Using
 
 | Package | What |
