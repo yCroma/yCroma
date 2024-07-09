@@ -8,6 +8,7 @@ I use Mac.
 | Package | What |
 | --- | --- |
 | [Arc](https://arc.net/) | Browser|
+| [Raycast](https://www.raycast.com/) | Launcher |
 | [Rectangle](https://rectangleapp.com/) | Window Manager |
 | [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
 
