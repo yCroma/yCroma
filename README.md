@@ -13,11 +13,13 @@ I use Mac.
 | [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
 
 
+
 ## Using
 
 | Package | What |
 | --- | --- |
 | [PlemolJP](https://github.com/yuru7/PlemolJP) | Font |
+| [Homebrew](https://brew.sh/ja/) | Package Manager |
 | [Emacs](https://www.gnu.org/software/emacs/) | Editor |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
 | [volta](https://volta.sh/) | Node Version Manager |
