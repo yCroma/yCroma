@@ -11,6 +11,7 @@ I use Mac.
 | [Raycast](https://www.raycast.com/) | Launcher |
 | [Rectangle](https://rectangleapp.com/) | Window Manager |
 | [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
+| [Ice](https://github.com/jordanbaird/Ice) | Customize Menu bar |
 
 
 
