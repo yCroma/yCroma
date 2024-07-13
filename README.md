@@ -13,6 +13,7 @@ I use Mac.
 | [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
 | [Ice](https://github.com/jordanbaird/Ice) | Customize Menu bar |
 | [Hyper](https://hyper.is/) | Terminal |
+| [lima](https://github.com/lima-vm/lima) | Container and VM |
 
 
 
