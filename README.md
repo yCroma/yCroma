@@ -25,6 +25,7 @@ I use Mac.
 | [Emacs](https://www.gnu.org/software/emacs/) | Editor |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
 | [volta](https://volta.sh/) | Node Version Manager |
+| [Starship](https://starship.rs/ja-JP/) | Terminal Prompt|
 
 
 <!--Tool Manager
