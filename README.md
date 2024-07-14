@@ -24,6 +24,7 @@ I use Mac.
 | [PlemolJP](https://github.com/yuru7/PlemolJP) | Font |
 | [Homebrew](https://brew.sh/ja/) | Package Manager |
 | [Emacs](https://www.gnu.org/software/emacs/) | Editor |
+| [VSCode](https://code.visualstudio.com/) | Editor with copilot |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
 | [volta](https://volta.sh/) | Node Version Manager |
 | [Starship](https://starship.rs/ja-JP/) | Terminal Prompt|
