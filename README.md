@@ -27,6 +27,7 @@ I use Mac.
 | [VSCode](https://code.visualstudio.com/) | Editor with copilot |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
 | [volta](https://volta.sh/) | Node Version Manager |
+| openjdk | for Java |
 | [Starship](https://starship.rs/ja-JP/) | Terminal Prompt|
 
 
