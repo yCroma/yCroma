@@ -13,6 +13,7 @@ I use Mac.
 | [SCROLL REVERSER](https://pilotmoon.com/scrollreverser/) | Controll Scroll at Mouse or Trackpad |
 | [Ice](https://github.com/jordanbaird/Ice) | Customize Menu bar |
 | [Hyper](https://hyper.is/) | Terminal |
+| [WezTerm](https://wezfurlong.org/wezterm/index.html) | Terminal |
 | [lima](https://github.com/lima-vm/lima) | Container and VM |
 | [Tailescale](https://tailscale.com/) | VPN for SSH |
 
@@ -27,6 +28,8 @@ I use Mac.
 | [Emacs](https://www.gnu.org/software/emacs/) | Editor |
 | [VSCode](https://code.visualstudio.com/) | Editor with copilot |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
+| [Graphviz](https://graphviz.gitlab.io/) | Generate diagram with dot |
+| [bottom](https://github.com/ClementTsang/bottom) | process/system monitor |
 | [volta](https://volta.sh/) | Node Version Manager |
 | openjdk | for Java |
 | [Starship](https://starship.rs/ja-JP/) | Terminal Prompt|
