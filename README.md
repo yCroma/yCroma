@@ -27,6 +27,7 @@ I use Mac.
 | [Homebrew](https://brew.sh/ja/) | Package Manager |
 | [Emacs](https://www.gnu.org/software/emacs/) | Editor |
 | [VSCode](https://code.visualstudio.com/) | Editor with copilot |
+| [GitHub CLI](https://docs.github.com/ja/github-cli) | Handling GitHub on the CLI |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy Finding |
 | [Graphviz](https://graphviz.gitlab.io/) | Generate diagram with dot |
 | [bottom](https://github.com/ClementTsang/bottom) | process/system monitor |
