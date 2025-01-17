@@ -33,6 +33,7 @@ I use Mac.
 | [Graphviz](https://graphviz.gitlab.io/) | Generate diagram with dot |
 | [bottom](https://github.com/ClementTsang/bottom) | process/system monitor |
 | [volta](https://volta.sh/) | Node Version Manager |
+| [Rye](https://rye.astral.sh) | Python project and package manager |
 | openjdk | for Java |
 | [Starship](https://starship.rs/ja-JP/) | Terminal Prompt|
 
